@@ -1,2 +1,2 @@
 # realstate
-a realstate project in dajngo
+a realstate project in django
